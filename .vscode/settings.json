@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.addBrackets": true,
+    "python.autoComplete.brackets": ["("],
+    "python.analysis.extraPaths": [
+        "./"
+    ],
+    "python.analysis.completeFunctionParens": true
+}
